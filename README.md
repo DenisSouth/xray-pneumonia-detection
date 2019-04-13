@@ -12,12 +12,15 @@ xray-pneumonia-detection based on  https://github.com/llSourcell/AI_Startup_Prot
 
 p.s.
 I am not sure about original layers dense, i think its overfit the network
+> x=Dense(1024,activation='relu')(x)
+
 > x=Dense(1024,activation='relu')(x) 
-> x=Dense(1024,activation='relu')(x) 
+
 > x=Dense(512,activation='relu')(x)
 
 Try to decrease it to 
 > x=Dense(256,activation='relu')(x) 
+
 > x=Dense(256,activation='relu')(x)
 or some else
 
