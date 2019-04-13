@@ -25,4 +25,4 @@ Try to decrease it to
 
 or some else
 
-If you will get nice result in test data - please make pull request or issue :-)
+If you will get nice result on test data (bettar then 0.69% accuracy) - please make pull request or issue :-)
