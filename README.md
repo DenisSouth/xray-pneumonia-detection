@@ -22,6 +22,7 @@ Try to decrease it to
 > x=Dense(256,activation='relu')(x) 
 
 > x=Dense(256,activation='relu')(x)
+
 or some else
 
 If you will get nice result in test data - please make pull request or issue :-)
